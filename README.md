@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-AI+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-AI+Code+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Cursor Free Installer** — Cursor is a VS Code fork with deep AI coding assistance built directly into the editor. Works without internet access, no account required. Full offline installation.
+**💻 Cursor Free Installer** — Cursor is an AI-first code editor built on VS Code, integrating AI pair programming directly into the editing experience. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Cursor
 
-Cursor is a VS Code fork with deep AI coding assistance built directly into the editor. It provides AI chat, inline code generation, smart autocomplete, and codebase-wide understanding — representing the first mainstream AI-native code editor.
+Cursor is an AI-first code editor built on VS Code, integrating AI pair programming directly into the editing experience. Chat with your codebase, apply AI-suggested edits across multiple files, get context-aware completions, and use natural language to request code changes. Cursor's deep VS Code compatibility means existing extensions and keybindings work, while adding a powerful AI layer on top.
 
 ---
 
 ## ❌ Problem: Cursor is hard to access
 
-- **Subscription for AI Features** — Best AI features require paid subscription
-- **VS Code Fork** — Some VS Code extensions may not be compatible
-- **Privacy Concerns** — Code context is sent to AI providers for processing
-- **AI Accuracy** — Suggested code requires review; AI can introduce subtle bugs
+- **Commercial Pricing** — AI features require paid subscription after free tier limits
+- **Internet Dependency** — AI features require cloud API calls; offline usage limited
+- **Privacy Considerations** — Code sent to AI servers for processing
+- **VS Code Divergence** — May lag behind VS Code updates
 
 ---
 
@@ -121,7 +121,7 @@ Cursor is a VS Code fork with deep AI coding assistance built directly into the 
 
 ---
 
-**Cursor Free Installer** — Cursor is a VS Code fork with deep AI coding assistance built directly into the editor. Install without internet connection today!
+**Cursor Free Installer** — Cursor is an AI-first code editor built on VS Code, integrating AI pair programming directly into the editing experience. Install without internet connection today!
 
 <div align="center">
 
